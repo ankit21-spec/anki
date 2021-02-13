@@ -1,4 +1,4 @@
-def computer():
+class computer():
     def __init__(self):
         self.cpu = cpu
         self.ram = ram
